@@ -105,7 +105,6 @@ Exciting frontiers pushing the boundaries of AI in research:
 
 # 📚 Knowledge Building
 
-_(Contributor: linzhen)_
 
 <!-- omit in toc -->
 ## Knowledge Acquisition
@@ -168,7 +167,6 @@ _(Contributor: linzhen)_
 
 # 💡 Idea Generation
 
-_(Contributor: minjun)_
 
 <!-- omit in toc -->
 ## Generation Strategy
@@ -259,7 +257,6 @@ _(Contributor: minjun)_
 
 # 🔬 Experiment Execution
 
-_(Contributor: yixuan)_
 
 <!-- omit in toc -->
 ## Experiment Design
@@ -340,7 +337,6 @@ _(Contributor: yixuan)_
 
 # 📝 Paper Writing
 
-_(Contributors: minjun, yixuan, qiujie)_
 
 <!-- omit in toc -->
 ## Main Writing & Summarization
@@ -447,7 +443,6 @@ _(Contributors: minjun, yixuan, qiujie)_
 
 # ✅ Peer Review
 
-_(Contributor: qiujie)_
 
 *   Online software spots genetic errors in cancer papers [[Paper]](https://www.nature.com/articles/nature.2017.23003) ![](https://img.shields.io/badge/Nature_News-2017-green)
 *   Argument Mining for Understanding Peer Reviews [[Paper]](https://aclanthology.org/N19-1219/) ![](https://img.shields.io/badge/NAACL-2019-blue)
@@ -563,6 +558,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # 🎖️ Credits and Acknowledgements
 
-*   Maintained with ❤️ by [Your Name/Org Name] and the community contributors.
-*   Inspired by the structure of the ["Transforming Science with Large Language Models"](https://github.com/steffen-eger/LLM4Science-Survey) repository.
-*   Last major content update: **July 2024** (Based on initial memory storage date)
+*   Maintained with ❤️ by [] and the community contributors.
+*   Last major content update: **Apr 2025** (Based on initial memory storage date)
