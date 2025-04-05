@@ -68,8 +68,8 @@ The fundamental layers where AI is impacting the research lifecycle:
 | **Knowledge Building** | Knowledge Building            | [Elicit](https://elicit.org), [Consensus](https://consensus.app), SciSpace, Semantic Scholar, KG Tools | AI tools for literature discovery, summarization, knowledge graph construction, understanding figures/tables, and synthesizing existing work. |
 | **Idea Generation**   | Idea Generation               | Hypothesis generators (e.g., based on KGs, LLMs), Agent-based exploration (e.g., [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent)) | AI assisting in formulating novel research questions, hypotheses, identifying gaps, and exploring new research directions.                 |
 | **Experimentation**   | Experiment Execution          | Autonomous Labs (e.g., [CoScientist](https://github.com/gomesgroup/coscientist)), [AlphaFold](https://alphafold.ebi.ac.uk), AutoML, Agent-driven simulation | AI aiding in experimental design, automating experiment execution (physical or simulated), data collection, analysis, and interpretation. |
-| **Paper Writing**     | Paper Writing                 | [Manubot](https://manubot.org), [Overleaf AI](https://www.overleaf.com), [PaperRobot](https://github.com/EagleW/PaperRobot), Citation/Figure generators | AI assistance in drafting sections (abstract, related work), generating figures/tables, citation management, editing, and formatting.     |
-| **Peer Review**       | Peer Review                   | Reviewer assignment tools, Argument mining, Review generation aids (e.g., [ReviewRobot](https://github.com/EagleW/ReviewRobot))            | AI tools supporting reviewer assignment, review quality assessment, argument extraction, and potentially review generation/summarization.      |
+| **Paper Writing**     | Paper Writing                 | [Overleaf AI](https://www.overleaf.com), [PaperRobot](https://github.com/EagleW/PaperRobot), [CycleResearcher](https://github.com/zhu-minjun/Researcher),Citation/Figure generators | AI assistance in drafting sections (abstract, related work), generating figures/tables, citation management, editing, and formatting.     |
+| **Peer Review**       | Peer Review                   | Reviewer assignment tools, Argument mining, Review generation aids (e.g., [ReviewRobot](https://github.com/EagleW/ReviewRobot), [CycleResearcher](https://github.com/zhu-minjun/Researcher))            | AI tools supporting reviewer assignment, review quality assessment, argument extraction, and potentially review generation/summarization.      |
 
 <!-- omit in toc -->
 ## Emerging Capabilities
@@ -87,6 +87,7 @@ Exciting frontiers pushing the boundaries of AI in research:
 
 | Project | Description | Stars | Link |
 |---------|-------------|-------|------|
+| [CycleResearcher](https://github.com/zhu-minjun/Researcher) | Improving Automated Research via Automated Review. | ![](https://img.shields.io/github/stars/zhu-minjun/Researcher?style=social) | [GitHub](https://github.com/zhu-minjun/Researcher) |
 | [Galactica](https://github.com/paperswithcode/galai) | Meta's scientific language model for research tasks. | ![](https://img.shields.io/github/stars/paperswithcode/galai?style=social) | [GitHub](https://github.com/paperswithcode/galai) |
 | [SciKit-LLM](https://github.com/iryna-kondr/scikit-llm) | Integration of LLMs into scientific workflows. | ![](https://img.shields.io/github/stars/iryna-kondr/scikit-llm?style=social) | [GitHub](https://github.com/iryna-kondr/scikit-llm) |
 | [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent) | Iterative research idea generation over scientific literature. | ![](https://img.shields.io/github/stars/JinheonBaek/ResearchAgent?style=social) | [GitHub](https://github.com/JinheonBaek/ResearchAgent) |
@@ -96,6 +97,7 @@ Exciting frontiers pushing the boundaries of AI in research:
 <!-- omit in toc -->
 ## Commercial Platforms
 
+*   [AI Researcher](https://ai-researcher.net/)
 *   [Elicit](https://elicit.org/)
 *   [Consensus](https://consensus.app/)
 *   [SciSpace](https://scispace.com/)
@@ -530,16 +532,14 @@ Exciting frontiers pushing the boundaries of AI in research:
 <!-- omit in toc -->
 ## Upcoming Events
 
-*   **(Past) NeurIPS 2024 AI4Science Workshop** (December 2024)
-*   **(Past) AAAI Conference on Automated Scientific Discovery** (February 2025)
-*   *(Suggest adding relevant upcoming events)*
+*   **(Upcoming) AIResearcher@ICLR 2025** (2025)🔥
 
 <!-- omit in toc -->
 ## Discussion Forums
 
-*   [AI Research Discord](https://discord.gg/airesearch) (Example - replace if needed)
-*   [r/MachineLearning](https://reddit.com/r/MachineLearning)
-*   *(Suggest adding forums specific to AI in science)*
+*   [AI Research Discord](https://discord.gg/airesearch) 
+*   AI Scientist Research Discussion Group (English):
+    ![AI Scientist WeChat Group QR Code]([img/WeChat Group QR Code.jpg](https://github.com/TuchuanLin/Awesome-AI-Scientist/blob/main/img/WeChat%20Group%20QR%20Code.jpg) "Scan to join AI Scientist WeChat Group")
 
 # 👋 Contributing
 
@@ -550,7 +550,7 @@ We welcome contributions! Please follow this workflow:
 3.  **Add or modify resources.** Please try to follow the existing format, including adding conference/journal badges.
 4.  **Submit a Pull Request (PR)** with a clear description of your changes.
 
-*For detailed guidelines, please see `CONTRIBUTING.md` (if available).*
+*For detailed guidelines, please see `CONTRIBUTING.md`.*
 
 # 📜 License
 
